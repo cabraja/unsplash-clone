@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/unsplash-clone/static/css/main.7bb16427.chunk.css",
+    "main.js": "/unsplash-clone/static/js/main.f05f7334.chunk.js",
+    "main.js.map": "/unsplash-clone/static/js/main.f05f7334.chunk.js.map",
+    "runtime-main.js": "/unsplash-clone/static/js/runtime-main.6bc1cf7f.js",
+    "runtime-main.js.map": "/unsplash-clone/static/js/runtime-main.6bc1cf7f.js.map",
+    "static/js/2.163cfff7.chunk.js": "/unsplash-clone/static/js/2.163cfff7.chunk.js",
+    "static/js/2.163cfff7.chunk.js.map": "/unsplash-clone/static/js/2.163cfff7.chunk.js.map",
+    "index.html": "/unsplash-clone/index.html",
+    "static/css/main.7bb16427.chunk.css.map": "/unsplash-clone/static/css/main.7bb16427.chunk.css.map",
+    "static/js/2.163cfff7.chunk.js.LICENSE.txt": "/unsplash-clone/static/js/2.163cfff7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/unsplash-clone/static/media/RobotoSlab-VariableFont_wght.27a558ea.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bc1cf7f.js",
+    "static/js/2.163cfff7.chunk.js",
+    "static/css/main.7bb16427.chunk.css",
+    "static/js/main.f05f7334.chunk.js"
+  ]
+}
